@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.db
+reconcile.db
+.DS_Store
+*.egg-info/
+.streamlit/secrets.toml
